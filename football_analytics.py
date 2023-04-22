@@ -230,7 +230,7 @@ def radar_plot(scrape_url, n):
 if analysis_choice == "Home":
     with header:
         st.markdown("<h1 style='text-align: left; color: orange;'>Football Analytics - Group 13</h1>", unsafe_allow_html=True)
-        st.markdown("<h1 style='text-align: left; color: orange;'>Group Members 🔥 </h1>", unsafe_allow_html=True)
+        st.markdown("<h1 style='text-align: left; color: orange;'>Group Members : </h1>", unsafe_allow_html=True)
         st.markdown("<h1 style='text-align: center; color: yellow;'>Amey Nitin Bagwe</h1>", unsafe_allow_html=True)
         st.markdown("<h1 style='text-align: center; color: yellow;'>Vailantan Fernandes</h1>", unsafe_allow_html=True)
         st.markdown("<h1 style='text-align: center; color: yellow;'>Wesley Lewis</h1>", unsafe_allow_html=True)
